@@ -1,18 +1,28 @@
 #include "level.h"
+#include "menu.h"
+
+#define DEBUG
 
 int main( int argc, char *args[] )
 {
  SDL_Init(SDL_INIT_EVERYTHING);
- Open_Window_and_Renderer(1366,768,SDL_WINDOW_FULLSCREEN);
- last_frame=Create_Transparent_Texture(1366,768);
+ #ifndef DEBUG
+ Open_Window_and_Renderer(3840,2160,SDL_WINDOW_FULLSCREEN);
+ //SDL_WINDOW_FULLSCREEN
+ last_frame=Create_Transparent_Texture(3840,2160);
+ #else
+ Open_Window_and_Renderer(3840,2160,0);
+ //SDL_WINDOW_FULLSCREEN
+ last_frame=Create_Transparent_Texture(3840,2160);
+ #endif // DEBUG
 
  Texture *screen;
  screen=new Texture;
- screen->w=1366;
- screen->h=768;
+ screen->w=3840;
+ screen->h=2160;
  screen->image=NULL;
  SCREEN=screen;
 
  Level level;
- level.Start("Andy",screen);
+ level.Start("Skin_Andy1",screen);
 }
