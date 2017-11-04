@@ -1,6 +1,6 @@
 #include "player.h"
 
-const int SKIN_IMAGE_W_PIXELS=128,SKIN_IMAGE_H_PIXELS=128;
+const int SKIN_IMAGE_W_PIXELS=64,SKIN_IMAGE_H_PIXELS=64;
 const bool ANIMATION=false;
 
 void Player::Load(char *_name)
@@ -102,6 +102,16 @@ int Player::Get_dirX()
 int Player::Get_dirY()
 {
  return dirY;
+}
+
+int Player::Get_last_dirX()
+{
+ return last_dirX;
+}
+
+int Player::Get_last_dirY()
+{
+ return last_dirY;
 }
 
 bool Player::Get_is_moving()

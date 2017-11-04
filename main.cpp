@@ -1,15 +1,14 @@
 #include "level.h"
-#include "menu.h"
 
-#define DEBUG
+//#define DEBUG
 
 int main( int argc, char *args[] )
 {
  SDL_Init(SDL_INIT_EVERYTHING);
  #ifndef DEBUG
- Open_Window_and_Renderer(3840,2160,SDL_WINDOW_FULLSCREEN);
+ Open_Window_and_Renderer(1366,768,0);
  //SDL_WINDOW_FULLSCREEN
- last_frame=Create_Transparent_Texture(3840,2160);
+ last_frame=Create_Transparent_Texture(1366,768);
  #else
  Open_Window_and_Renderer(3840,2160,0);
  //SDL_WINDOW_FULLSCREEN

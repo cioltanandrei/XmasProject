@@ -37,6 +37,8 @@ class Player
  int Get_screen_posY();
  int Get_dirX();
  int Get_dirY();
+ int Get_last_dirX();
+ int Get_last_dirY();
  bool Get_is_moving();
  Texture *Get_skin_image();
  ///Game
