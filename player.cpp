@@ -1,6 +1,6 @@
 #include "player.h"
 
-const int SKIN_IMAGE_W_PIXELS=32,SKIN_IMAGE_H_PIXELS=32;
+const int SKIN_IMAGE_W_PIXELS=64,SKIN_IMAGE_H_PIXELS=64;
 const bool ANIMATION=false;
 
 void Player::Load(char *_name)

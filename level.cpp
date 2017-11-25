@@ -1,6 +1,6 @@
 #include "level.h"
 
-const int PIXELS_PER_MOVE=20;
+const int PIXELS_PER_MOVE=15;
 
 const int FPS_MAX=60;
 
