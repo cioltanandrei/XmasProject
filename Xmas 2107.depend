@@ -372,19 +372,20 @@
 1505759923 source:e:\programming\xmas 2107\player.cpp
 	"player.h"
 
-1506580924 source:c:\users\ciolt\desktop\xmax 2107\level.cpp
+1511620576 source:c:\users\ciolt\desktop\xmax 2107\level.cpp
 	"level.h"
 
-1506451095 c:\users\ciolt\desktop\xmax 2107\level.h
+1511620576 c:\users\ciolt\desktop\xmax 2107\level.h
 	"player.h"
+	"map.h"
 
-1506455415 c:\users\ciolt\desktop\xmax 2107\player.h
+1511620576 c:\users\ciolt\desktop\xmax 2107\player.h
 	"texture.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\texture.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\texture.h
 	"library.h"
 
-1507802297 c:\users\ciolt\desktop\xmax 2107\library.h
+1507798697 c:\users\ciolt\desktop\xmax 2107\library.h
 	<SDL.h>
 	<SDL_ttf.h>
 	<SDL_mixer.h>
@@ -394,19 +395,19 @@
 	<string>
 	<cstdlib>
 
-1506580913 source:c:\users\ciolt\desktop\xmax 2107\library.cpp
+1506577313 source:c:\users\ciolt\desktop\xmax 2107\library.cpp
 	"library.h"
 
-1507801544 source:c:\users\ciolt\desktop\xmax 2107\main.cpp
+1511620576 source:c:\users\ciolt\desktop\xmax 2107\main.cpp
 	"level.h"
 
-1506526332 source:c:\users\ciolt\desktop\xmax 2107\player.cpp
+1511620576 source:c:\users\ciolt\desktop\xmax 2107\player.cpp
 	"player.h"
 
-1505760936 source:c:\users\ciolt\desktop\xmax 2107\texture.cpp
+1505757336 source:c:\users\ciolt\desktop\xmax 2107\texture.cpp
 	"texture.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_assert.h"
@@ -437,12 +438,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_main.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -471,34 +472,34 @@
 	<stdlib.h>
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_config.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_config.h
 	"SDL_platform.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_platform.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_platform.h
 	"AvailabilityMacros.h"
 	"TargetConditionals.h"
 	<winapifamily.h>
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\begin_code.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\begin_code.h
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\close_code.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\close_code.h
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_assert.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_assert.h
 	"SDL_config.h"
 	"begin_code.h"
 	<signal.h>
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_atomic.h
 	"SDL_stdinc.h"
 	"SDL_platform.h"
 	"begin_code.h"
 	<mbarrier.h>
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_audio.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -508,24 +509,24 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_error.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_endian.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_endian.h
 	"SDL_stdinc.h"
 	<endian.h>
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_thread.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_atomic.h"
@@ -534,18 +535,18 @@
 	<process.h>
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	<intrin.h>
 	<intrin.h>
@@ -557,7 +558,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_events.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -571,7 +572,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_video.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -579,12 +580,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_pixels.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rect.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rect.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_pixels.h"
@@ -592,7 +593,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_surface.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_surface.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -601,11 +602,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keycode.h"
@@ -613,27 +614,27 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keycode.h
 	"SDL_stdinc.h"
 	"SDL_scancode.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_scancode.h
 	"SDL_stdinc.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
@@ -641,11 +642,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_quit.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gesture.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -653,60 +654,60 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_touch.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_touch.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_haptic.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_joystick.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_hints.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_hints.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_log.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_log.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
 	"SDL_stdinc.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_power.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_power.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_render.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_render.h
 	"SDL_stdinc.h"
 	"SDL_rect.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_system.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_system.h
 	"SDL_stdinc.h"
 	"SDL_keyboard.h"
 	"SDL_render.h"
@@ -714,23 +715,23 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_timer.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_timer.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_version.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_ttf.h
 	"SDL.h"
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mixer.h
 	"SDL_stdinc.h"
 	"SDL_rwops.h"
 	"SDL_audio.h"
@@ -739,7 +740,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1505760936 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_image.h
+1505757336 c:\users\ciolt\desktop\xmax 2107\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
@@ -1139,4 +1140,17 @@
 
 1509800275 source:e:\programming\xmas project\map.cpp
 	"map.h"
+
+1511620576 c:\users\ciolt\desktop\xmax 2107\map.h
+	"map_layer.h"
+
+1511620576 c:\users\ciolt\desktop\xmax 2107\map_layer.h
+	"texture.h"
+	<map>
+
+1511620576 source:c:\users\ciolt\desktop\xmax 2107\map.cpp
+	"map.h"
+
+1511620576 source:c:\users\ciolt\desktop\xmax 2107\map_layer.cpp
+	"map_layer.h"
 

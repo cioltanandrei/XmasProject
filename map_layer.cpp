@@ -1,6 +1,6 @@
 #include "map_layer.h"
 
-const int PIXELS_PER_TILE=64;
+const int PIXELS_PER_TILE=32;
 
 void Map_Layer::Load(int _number,int _w,int _h,FILE *where)
 {
